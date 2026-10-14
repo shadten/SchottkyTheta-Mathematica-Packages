@@ -1,3 +1,8 @@
+This repository is outdated. For the new version, please go [here](https://github.com/manuelpberger/CST).
+
+---
+---
+
 This is the Mathematica implementation I used for my Master's thesis. More info as well as usage examples will follow.
 
 # Conventions
